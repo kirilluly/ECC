@@ -203,6 +203,7 @@ commands:
   - multi-workflow
   - plan
   - plan-prd
+  - plugin
   - pm2
   - projects
   - promote
